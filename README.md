@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student
+I'm a student currently pursuing B.Tech in Computer Science Engineering
 
 
 ## 🌐 Socials:
